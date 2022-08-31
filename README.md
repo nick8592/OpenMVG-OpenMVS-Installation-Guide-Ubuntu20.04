@@ -1,4 +1,4 @@
-# OpenMVG-OpenMVS-Ubuntu-Installation-Guide
+# OpenMVG-OpenMVS-Installation-Guide-Ubuntu20.04
 OpenMVG, OpenMVS安裝指南持續更新中   
 作業系統：Ubunutu 20.04   
 中文版本請點擊下面Notion筆記連結   
